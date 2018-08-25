@@ -23,9 +23,9 @@
 	}
 	.error{
 		text-align: center;
-		color: red;
+		color: blue;
 		font-family: tahoma;
-		padding: 10px; 
+		padding: 20px; 
 	}
 </style>
 <body>
