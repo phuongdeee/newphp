@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>This is quizz app!!!</title>
     </head>
     <body>
         <?php
