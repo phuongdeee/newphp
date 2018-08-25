@@ -31,7 +31,7 @@ if($a==0){
 		width: 350px;
 		height: 200px;
 		text-align: center;
-		background-color: grey;
+		background-color: black;
 		outline-style: solid;
 		outline-color: black ; 
 	}
